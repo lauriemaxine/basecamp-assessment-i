@@ -21,7 +21,7 @@ When you have completed the challenges please:
 
 ## Contributions
 
-If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.  This is a test to show a small change in the code.
 
 ## Copyright
 
